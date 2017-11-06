@@ -1,2 +1,4 @@
 # Private-Projects-Info
-School projects such as my MVC music editor made in Java, Maze Game with solution finder made in Java, Bash-like Unix shell made in C, and thread safe high performance memory allocator are available upon request
+Private and school projects that I've made such as MVC music editor (Java), maze game with solution finder (Java), Breakout video game (Java), Bash- like Unix shell (C), and thread safe high performance memory allocator (C) are available upon request.
+
+If anyone has any questions about these projects feel free to email me.
